@@ -1,4 +1,4 @@
-# my-awesome-nerdpack
+# amar-nerdpack
 
 ## Getting started
 
